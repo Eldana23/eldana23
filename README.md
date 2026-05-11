@@ -1,54 +1,87 @@
-# Hi, I'm Eldana Ashirova👋
+<div align="center">
 
-I'm an undergraduate in the **first-ever cohort at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)** in Abu Dhabi. MBZUAI is a highly selective, AI-focused university, where I study core AI, machine learning, and computer science in a research-driven environment.
+# Hi, I'm Eldana Ashirova 👋
 
-I use this GitHub as my portfolio. A place to show what I build, how I think, and how I work with others.
+### Artificial Intelligence Student at MBZUAI  
+### Machine Learning | Software Engineering | Research | Data
 
----
+I build thoughtful technical projects across AI, software, and research.
 
-## 🎓 Education
-
-**BSc in Artificial Intelligence**  
-**MBZUAI – First Undergraduate Cohort**
-
-- **Focus**: AI fundamentals, machine learning, probability, algorithms, and systems  
-- **Environment**: small cohorts, research-oriented, AI-only university
+</div>
 
 ---
 
-## 🛠️ Skills
+## Connect with me
 
-**Languages & Technologies**
-
-- **Python**: projects, data work, and back-end logic  
-- **C**:  systems programming, memory, and low-level understanding  
-- **Web**: HTML, CSS, JavaScript 
-
-**Tools & Workflow**
-
-- **Git**: version control, branching, pull requests, and collaboration  
-- **Terminal / Command Line**: comfortable working in CLI environments  
-- **VS Code**: main editor with integrated Git and debugging
+- Portfolio: [eldana-ashirova-website.vercel.app](https://eldana-ashirova-website.vercel.app)
+- LinkedIn: [linkedin.com/in/itsrealeldanaashirova](http://linkedin.com/in/itsrealeldanaashirova)
+- Email: [eldanaashirova7b@gmail.com](mailto:eldanaashirova7b@gmail.com)
 
 ---
 
-## 📦 Selected Projects
+## About me
 
-These are some of the projects I’ve built or contributed to and will be uploading/organizing into repositories:
+I am a BSc Artificial Intelligence student at Mohamed Bin Zayed University of Artificial Intelligence in Abu Dhabi.
 
-- **Smart Library System (Python, team project)**: library management system built collaboratively, showing my ability to work in a team and structure code using OOP.
-- **Market Basket Analysis for Grocers (Python)**: data-driven analysis to find associations between items frequently bought together.
-- **Point of Interest Management System (Python)**: management of locations (POIs) with clean data modeling and operations.
-- **Personal Website (HTML, CSS, JavaScript)**: a custom website showcasing my front-end skills and ability to build user-facing interfaces.
+My background combines artificial intelligence, programming, research, and physics. Before university, I worked on applied physics and nanomaterials research, where I learned how to work with complex problems, analyze data, test ideas, and explain technical results clearly.
 
-For more details, please check the individual repositories and their READMEs (as I upload and refine them).
+Today, I am focused on building intelligent systems, machine learning projects, and software products that are useful, well-structured, and easy to understand.
+
+I enjoy projects that combine logic, creativity, and real-world impact.
 
 ---
 
-## 📫 Contact
+## What I work on
 
-- Email: eldanaashirova7b@gmail.com  
-- Website: https://eldana-ashirova-website.vercel.app
-- LinkedIn: http://linkedin.com/in/itsrealeldanaashirova
+My GitHub includes projects related to machine learning, data science, algorithms, computer vision, full-stack development, and research-inspired technical work.
 
-If you’re a recruiter, engineer, or fellow student, feel free to explore my repositories and reach out. I’m always interested in learning, collaborating, and taking on new challenges.
+I am especially interested in:
+
+- Machine learning models for prediction, classification, and decision-making
+- Data analysis and feature engineering
+- Computer vision and AI systems
+- Algorithms, graph search, and optimization
+- Full-stack web applications
+- Research projects that connect AI with science and real-world systems
+
+---
+
+## Technical skills
+
+I mainly work with Python for machine learning, data analysis, algorithms, and research-based projects.
+
+For AI and data work, I use tools such as PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, and SQL.
+
+For web development, I have experience with JavaScript, TypeScript, React, Next.js, HTML, CSS, and FastAPI.
+
+I also use Git, GitHub, VS Code, Google Colab, and Linux as part of my regular workflow.
+
+---
+
+## Background highlights
+
+- BSc Artificial Intelligence student at MBZUAI
+- Recipient of a full scholarship for AI excellence
+- Research background in applied physics and nanomaterials
+- Former physics olympiad participant and medalist
+- Experience across machine learning, data analysis, and web development
+- Founder of an independent tutoring practice
+- Fluent in English and Russian, learning Arabic
+
+---
+
+## How I approach projects
+
+I like projects with a clear purpose and enough complexity to make me think deeply.
+
+My usual approach is to understand the problem, break it into smaller parts, build carefully, test honestly, and improve step by step.
+
+I care about clean structure, readable code, practical results, and being able to explain what I built clearly.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my GitHub ✨
+
+</div>
