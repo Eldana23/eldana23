@@ -48,7 +48,7 @@ For more details, please check the individual repositories and their READMEs (as
 ## 📫 Contact
 
 - Email: eldanaashirova7b@gmail.com  
-- Website: https://eldana23.github.io/personal_website/index.html 
+- Website: https://eldana-ashirova-website.vercel.app
 - LinkedIn: http://linkedin.com/in/itsrealeldanaashirova
 
 If you’re a recruiter, engineer, or fellow student, feel free to explore my repositories and reach out. I’m always interested in learning, collaborating, and taking on new challenges.
